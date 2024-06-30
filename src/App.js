@@ -7,7 +7,7 @@ function App() {
     <div className="App"> 
       <Navbar title='TextBot' about='About Us'/>
       <div className="container">
-      <TextBox title='Text Box'/>
+      <TextBox title='Text Bot '/>
       </div>
     </div>
   );
